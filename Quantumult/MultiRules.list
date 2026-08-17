@@ -50,15 +50,15 @@ host-suffix, equifax.co.uk, EU
 host, equip.uk.equifax.com, EU
 
 # ===== US =====
-host-suffix, americanexpress.com, US
-host-suffix, aexp.com, US
-host-suffix, americanexpress.io, US
-host-suffix, amextravel.com, US
-host-suffix, nav.com, US
-host-suffix, stitchcredit.com, US
-host-suffix, crscreditapi.com, US
-host-suffix, equifax.com, US
-host-suffix, efxnow.com, US
+host-suffix, americanexpress.com, US Residence
+host-suffix, aexp.com, US Residence
+host-suffix, americanexpress.io, US Residence
+host-suffix, amextravel.com, US Residence
+host-suffix, nav.com, US Residence
+host-suffix, stitchcredit.com, US Residence
+host-suffix, crscreditapi.com, US Residence
+host-suffix, equifax.com, US Residence
+host-suffix, efxnow.com, US Residence
 
 # ===== HK =====
 host-suffix, bochk.com, HK
